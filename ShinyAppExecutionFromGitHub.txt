@@ -1,2 +1,2 @@
 source("https://raw.githubusercontent.com/jovinod/text-analytics-cooccurence/master/ShinyApp_Co-occurence_Prereq.R")
-runGitHub("ShinyApp_Cooccurence","avinashgatty15")
+runGitHub("ShinyApp_Cooccurence","jovinod")
